@@ -1,6 +1,13 @@
 body
 {
-  background-image: linear-gradient(#FFFF00, #CC00CC);  
-  color: #003300;
-  font-family: impact;
+  background-image: linear-gradient(#996600, #CC6600);  
+  color: #ffffa8;
+  font-family: Merriweather;
+  text-shadow: 2px 2px black;
+  font-size: 20px;
+}
+
+.center-table
+{
+margin: 0px auto;
 }
